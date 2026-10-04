@@ -86,3 +86,7 @@ Cada suite restablece PostgreSQL y MongoDB antes de ejecutarse y cierra las cone
 | DELETE | `/activities/:id` | Eliminar actividad |
 
 Los errores se devuelven como JSON: `{ "error": "Contact not found" }`.
+
+## Evidencia
+<img width="566" height="460" alt="image" src="https://github.com/user-attachments/assets/404ed9d0-5e2c-4b73-b0b1-9c11d7e5dcea" />
+
